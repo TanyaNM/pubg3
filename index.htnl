@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поради для PUBG</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <nav>
+        <a href="index.html">Головна</a>
+        <a href="weapons.html">Зброя</a>
+        <a href="tips.html">Поради</a>
+    </nav>
+   <header> <h1>Корисні поради для PUBG</h1></header>
+   <main>
+
+    <div class="tip-card">
+        <h2>1. Завжди слідкуй за зоною</h2>
+        <p>Контролюй карту та переміщайся ближче до центру безпечної зони, щоб уникнути небезпеки.</p>
+    </div>
+
+    <div class="tip-card">
+        <h2>2. Використовуй навушники</h2>
+        <p>Хороший звук допоможе почути кроки ворогів і постріли, що дасть тактичну перевагу.</p>
+    </div>
+
+    <div class="tip-card">
+        <h2>3. Шукай якісне спорядження</h2>
+        <p>Шукай шоломи, броню та приціли високого рівня, щоб виживати довше та бути точнішим у стрільбі.</p>
+    </div>
+
+    <div class="tip-card">
+        <h2>4. Грай командою</h2>
+        <p>Взаємодія з командою та координація дій підвищують шанси на перемогу.</p>
+    </div>
+
+    <div class="tip-card">
+        <h2>5. Тренуй стрільбу</h2>
+        <p>Регулярно тренуйся на полігоні, щоб краще контролювати віддачу і прицілювання.</p>
+    </div>
+
+</main>
+<footer>
+<p>Колаборація PUBG</p>
+<div class="img">
+<img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png"
+width="150px"
+height="100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/ru/thumb/f/f2/%D0%90%D1%80%D0%BA%D0%B5%D0%B9%D0%BD_%28%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%29.jpg/800px-%D0%90%D1%80%D0%BA%D0%B5%D0%B9%D0%BD_%28%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%29.jpg"
+ width="150px"
+ height="100px"/>
+ <img src="data:image/png;base64,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"
+ width="150px"
+ height="100px"/>
+</div>
+</footer>
+</body>
+</html>
+
+
